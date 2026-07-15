@@ -1,0 +1,26 @@
+{
+  "numPages": 3,
+  "pages": [
+    {
+      "page": 1,
+      "file": "page-1.jpg",
+      "width": 2048,
+      "height": 1707,
+      "orientation": "landscape"
+    },
+    {
+      "page": 2,
+      "file": "page-2.jpg",
+      "width": 2048,
+      "height": 853,
+      "orientation": "landscape"
+    },
+    {
+      "page": 3,
+      "file": "page-3.jpg",
+      "width": 2048,
+      "height": 853,
+      "orientation": "landscape"
+    }
+  ]
+}
