@@ -1,0 +1,37 @@
+{
+  "numPages": 4,
+  "pages": [
+    {
+      "page": 1,
+      "file": "cozinha.jpg",
+      "width": 5000,
+      "height": 2941,
+      "orientation": "landscape",
+      "legenda": "Cozinha - ap. 403"
+    },
+    {
+      "page": 2,
+      "file": "sala-de-estar.jpg",
+      "width": 5000,
+      "height": 2941,
+      "orientation": "landscape",
+      "legenda": "Sala de estar - ap. 403"
+    },
+    {
+      "page": 3,
+      "file": "suite.jpg",
+      "width": 5000,
+      "height": 2942,
+      "orientation": "landscape",
+      "legenda": "Suíte - ap. 403"
+    },
+    {
+      "page": 4,
+      "file": "varanda.jpg",
+      "width": 5000,
+      "height": 2942,
+      "orientation": "landscape",
+      "legenda": "Varanda - ap. 403"
+    }
+  ]
+}
