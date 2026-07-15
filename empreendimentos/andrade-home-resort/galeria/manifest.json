@@ -1,0 +1,268 @@
+{
+  "ambientes": [
+    {
+      "id": "apartamento-modelo-403",
+      "nome": "Apartamento Modelo 403",
+      "capa": "apartamento-modelo-403/cozinha-ap-403.jpg",
+      "numPages": 4,
+      "pages": [
+        {
+          "page": 1,
+          "file": "apartamento-modelo-403/cozinha-ap-403.jpg",
+          "width": 5000,
+          "height": 2941,
+          "orientation": "landscape",
+          "legenda": "Cozinha - ap. 403"
+        },
+        {
+          "page": 2,
+          "file": "apartamento-modelo-403/sala-de-estar-ap-403.jpg",
+          "width": 5000,
+          "height": 2941,
+          "orientation": "landscape",
+          "legenda": "Sala de estar - ap. 403"
+        },
+        {
+          "page": 3,
+          "file": "apartamento-modelo-403/suite-ap-403.jpg",
+          "width": 5000,
+          "height": 2942,
+          "orientation": "landscape",
+          "legenda": "Suíte - ap. 403"
+        },
+        {
+          "page": 4,
+          "file": "apartamento-modelo-403/varanda-ap-403.jpg",
+          "width": 5000,
+          "height": 2942,
+          "orientation": "landscape",
+          "legenda": "Varanda - ap. 403"
+        }
+      ]
+    },
+    {
+      "id": "fachadas",
+      "nome": "Fachadas",
+      "capa": "fachadas/entrada-shopping-vista-1.jpg",
+      "numPages": 7,
+      "pages": [
+        {
+          "page": 1,
+          "file": "fachadas/entrada-shopping-vista-1.jpg",
+          "width": 5000,
+          "height": 2770,
+          "orientation": "landscape",
+          "legenda": "Entrada Shopping vista 1"
+        },
+        {
+          "page": 2,
+          "file": "fachadas/entrada-shopping-vista-2.jpg",
+          "width": 5000,
+          "height": 2765,
+          "orientation": "landscape",
+          "legenda": "Entrada Shopping vista 2"
+        },
+        {
+          "page": 3,
+          "file": "fachadas/entrada-shopping-vista-3.jpg",
+          "width": 5000,
+          "height": 2684,
+          "orientation": "landscape",
+          "legenda": "Entrada Shopping vista 3"
+        },
+        {
+          "page": 4,
+          "file": "fachadas/vista-1-fontal-noturna.jpg",
+          "width": 5000,
+          "height": 2743,
+          "orientation": "landscape",
+          "legenda": "Vista 1 - Fontal - Noturna"
+        },
+        {
+          "page": 5,
+          "file": "fachadas/vista-1-fontal-diurna.jpg",
+          "width": 5000,
+          "height": 2675,
+          "orientation": "landscape",
+          "legenda": "Vista 1 -Fontal - Diurna"
+        },
+        {
+          "page": 6,
+          "file": "fachadas/vista-2-lateral.jpg",
+          "width": 5000,
+          "height": 2883,
+          "orientation": "landscape",
+          "legenda": "Vista 2 - Lateral"
+        },
+        {
+          "page": 7,
+          "file": "fachadas/vista-3-fundos.jpg",
+          "width": 4874,
+          "height": 2847,
+          "orientation": "landscape",
+          "legenda": "Vista 3 - Fundos"
+        }
+      ]
+    },
+    {
+      "id": "shopping",
+      "nome": "Shopping",
+      "capa": "shopping/lojas.jpg",
+      "numPages": 4,
+      "pages": [
+        {
+          "page": 1,
+          "file": "shopping/lojas.jpg",
+          "width": 5000,
+          "height": 2940,
+          "orientation": "landscape",
+          "legenda": "Lojas"
+        },
+        {
+          "page": 2,
+          "file": "shopping/praca-de-alimentacao-1.jpg",
+          "width": 5000,
+          "height": 2940,
+          "orientation": "landscape",
+          "legenda": "Praça de Alimentação 1"
+        },
+        {
+          "page": 3,
+          "file": "shopping/praca-de-alimentacao-2.jpg",
+          "width": 5000,
+          "height": 2940,
+          "orientation": "landscape",
+          "legenda": "Praça de Alimentação 2"
+        },
+        {
+          "page": 4,
+          "file": "shopping/quiosques.jpg",
+          "width": 5000,
+          "height": 2940,
+          "orientation": "landscape",
+          "legenda": "Quiosques"
+        }
+      ]
+    },
+    {
+      "id": "area-de-lazer",
+      "nome": "Área de Lazer",
+      "capa": "area-de-lazer/academia.jpg",
+      "numPages": 14,
+      "pages": [
+        {
+          "page": 1,
+          "file": "area-de-lazer/academia.jpg",
+          "width": 5000,
+          "height": 2943,
+          "orientation": "landscape",
+          "legenda": "Academia"
+        },
+        {
+          "page": 2,
+          "file": "area-de-lazer/coworking.jpg",
+          "width": 5000,
+          "height": 2500,
+          "orientation": "landscape",
+          "legenda": "Coworking"
+        },
+        {
+          "page": 3,
+          "file": "area-de-lazer/espaco-mulher.jpg",
+          "width": 5000,
+          "height": 2943,
+          "orientation": "landscape",
+          "legenda": "Espaço Mulher"
+        },
+        {
+          "page": 4,
+          "file": "area-de-lazer/lavanderia.jpg",
+          "width": 5000,
+          "height": 2943,
+          "orientation": "landscape",
+          "legenda": "Lavanderia"
+        },
+        {
+          "page": 5,
+          "file": "area-de-lazer/piscina-infantil.jpg",
+          "width": 5000,
+          "height": 2941,
+          "orientation": "landscape",
+          "legenda": "Piscina Infantil"
+        },
+        {
+          "page": 6,
+          "file": "area-de-lazer/piscina.jpg",
+          "width": 5000,
+          "height": 2941,
+          "orientation": "landscape",
+          "legenda": "Piscina"
+        },
+        {
+          "page": 7,
+          "file": "area-de-lazer/playground.jpg",
+          "width": 5000,
+          "height": 2941,
+          "orientation": "landscape",
+          "legenda": "Playground"
+        },
+        {
+          "page": 8,
+          "file": "area-de-lazer/sala-de-jogos.jpg",
+          "width": 5000,
+          "height": 2943,
+          "orientation": "landscape",
+          "legenda": "Sala de Jogos"
+        },
+        {
+          "page": 9,
+          "file": "area-de-lazer/salao-de-festas.jpg",
+          "width": 5000,
+          "height": 2943,
+          "orientation": "landscape",
+          "legenda": "Salão de Festas"
+        },
+        {
+          "page": 10,
+          "file": "area-de-lazer/sauna.jpg",
+          "width": 5000,
+          "height": 2941,
+          "orientation": "landscape",
+          "legenda": "Sauna"
+        },
+        {
+          "page": 11,
+          "file": "area-de-lazer/area-externa.jpg",
+          "width": 5000,
+          "height": 2941,
+          "orientation": "landscape",
+          "legenda": "Área Externa"
+        },
+        {
+          "page": 12,
+          "file": "area-de-lazer/area-gourmet.jpg",
+          "width": 5000,
+          "height": 2941,
+          "orientation": "landscape",
+          "legenda": "Área Gourmet"
+        },
+        {
+          "page": 13,
+          "file": "area-de-lazer/area-de-churasco-1.jpg",
+          "width": 5000,
+          "height": 2941,
+          "orientation": "landscape",
+          "legenda": "Área de Churasco 1"
+        },
+        {
+          "page": 14,
+          "file": "area-de-lazer/area-de-churrasco-2.jpg",
+          "width": 5000,
+          "height": 2941,
+          "orientation": "landscape",
+          "legenda": "Área de Churrasco 2"
+        }
+      ]
+    }
+  ]
+}
