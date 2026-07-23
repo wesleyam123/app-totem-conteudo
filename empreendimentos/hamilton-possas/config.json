@@ -1,0 +1,19 @@
+{
+  "nome": "Residencial Hamilton Possas",
+  "tourUrl": "https://wmiler.com.br/tour/hamiltonp.html",
+  "apresentacaoManifestUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/apresentacao/manifest.json",
+  "galeriaManifestUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/galeria/manifest.json",
+  "homeBgUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/imagens/home_bg.jpg",
+  "homeBgUrlLandscape": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/imagens/home_bg_landscape.jpg",
+  "selecaoBgUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/imagens/selecao_bg.jpg",
+  "galeriaBgUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/imagens/galeria_bg.jpg",
+  "galeriaBgUrlLandscape": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/imagens/galeria_bg_landscape.jpg",
+  "plantasPrecosBgUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/imagens/plantas_bg.jpg",
+  "selecaoCardTourUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/imagens/selecao_card_tour.jpg",
+  "selecaoCardApresentacaoUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/imagens/selecao_card_apresentacao.jpg",
+  "selecaoCardGaleriaUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/imagens/selecao_card_galeria.jpg",
+  "selecaoCardPlantasPrecosUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/imagens/selecao_card_plantas.png",
+  "construtoraEmpreendimentoId": "cmrdjpy200000z0xmui4ng9c6",
+  "construtoraApiBaseUrl": "https://construtora-app-nu.vercel.app",
+  "capaUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/hamilton-possas/imagens/capa.jpg"
+}

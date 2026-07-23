@@ -1,0 +1,138 @@
+{
+  "numPages": 19,
+  "pages": [
+    {
+      "page": 1,
+      "file": "page-1.jpg",
+      "width": 5120,
+      "height": 5120,
+      "orientation": "portrait"
+    },
+    {
+      "page": 2,
+      "file": "page-2.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 3,
+      "file": "page-3.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 4,
+      "file": "page-4.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 5,
+      "file": "page-5.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 6,
+      "file": "page-6.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 7,
+      "file": "page-7.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 8,
+      "file": "page-8.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 9,
+      "file": "page-9.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 10,
+      "file": "page-10.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 11,
+      "file": "page-11.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 12,
+      "file": "page-12.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 13,
+      "file": "page-13.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 14,
+      "file": "page-14.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 15,
+      "file": "page-15.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 16,
+      "file": "page-16.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 17,
+      "file": "page-17.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 18,
+      "file": "page-18.jpg",
+      "width": 5120,
+      "height": 2560,
+      "orientation": "landscape"
+    },
+    {
+      "page": 19,
+      "file": "page-19.jpg",
+      "width": 5120,
+      "height": 5120,
+      "orientation": "portrait"
+    }
+  ]
+}

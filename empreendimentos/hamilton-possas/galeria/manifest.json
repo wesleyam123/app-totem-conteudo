@@ -1,0 +1,92 @@
+{
+  "ambientes": [
+    {
+      "id": "apartamento-modelo",
+      "nome": "Apartamento Modelo",
+      "capa": "apartamento-modelo/sala-1.jpg",
+      "numPages": 3,
+      "pages": [
+        {
+          "page": 1,
+          "file": "apartamento-modelo/sala-1.jpg",
+          "width": 2000,
+          "height": 1522,
+          "orientation": "landscape",
+          "legenda": "Sala 1"
+        },
+        {
+          "page": 2,
+          "file": "apartamento-modelo/suite-1.jpg",
+          "width": 2000,
+          "height": 1522,
+          "orientation": "landscape",
+          "legenda": "Suíte 1"
+        },
+        {
+          "page": 3,
+          "file": "apartamento-modelo/varanda-1.jpg",
+          "width": 2000,
+          "height": 1522,
+          "orientation": "landscape",
+          "legenda": "Varanda 1"
+        }
+      ]
+    },
+    {
+      "id": "area-de-lazer",
+      "nome": "Área de Lazer",
+      "capa": "area-de-lazer/gourmet-2.jpg",
+      "numPages": 3,
+      "pages": [
+        {
+          "page": 1,
+          "file": "area-de-lazer/gourmet-2.jpg",
+          "width": 2000,
+          "height": 1522,
+          "orientation": "landscape",
+          "legenda": "Gourmet 2"
+        },
+        {
+          "page": 2,
+          "file": "area-de-lazer/piscina-3.jpg",
+          "width": 2000,
+          "height": 1251,
+          "orientation": "landscape",
+          "legenda": "Piscina 3"
+        },
+        {
+          "page": 3,
+          "file": "area-de-lazer/fitness-1.jpg",
+          "width": 2000,
+          "height": 1251,
+          "orientation": "landscape",
+          "legenda": "Fitness 1"
+        }
+      ]
+    },
+    {
+      "id": "fachadas",
+      "nome": "Fachadas",
+      "capa": "fachadas/fachada-diurna.jpg",
+      "numPages": 2,
+      "pages": [
+        {
+          "page": 1,
+          "file": "fachadas/fachada-diurna.jpg",
+          "width": 3294,
+          "height": 3754,
+          "orientation": "portrait",
+          "legenda": "Fachada Diurna"
+        },
+        {
+          "page": 2,
+          "file": "fachadas/fachada-noturna.jpg",
+          "width": 3308,
+          "height": 3790,
+          "orientation": "portrait",
+          "legenda": "Fachada Noturna"
+        }
+      ]
+    }
+  ]
+}

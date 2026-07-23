@@ -14,5 +14,6 @@
   "selecaoCardGaleriaUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/andrade-home-resort/imagens/selecao_card_galeria.jpg",
   "selecaoCardPlantasPrecosUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/andrade-home-resort/imagens/selecao_card_plantas.jpg",
   "construtoraEmpreendimentoId": "cmr3p8kof00001wxm9x6byd3y",
-  "construtoraApiBaseUrl": "https://construtora-app-nu.vercel.app"
+  "construtoraApiBaseUrl": "https://construtora-app-nu.vercel.app",
+  "capaUrl": "https://raw.githubusercontent.com/wesleyam123/app-totem-conteudo/main/empreendimentos/andrade-home-resort/imagens/capa.jpg"
 }
