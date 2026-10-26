@@ -1,5 +1,5 @@
 {
-  "numPages": 41,
+  "numPages": 35,
   "pages": [
     {
       "page": 1,
@@ -59,22 +59,6 @@
     },
     {
       "page": 8,
-      "file": "page-8.jpg",
-      "width": 4423,
-      "height": 3062,
-      "orientation": "landscape",
-      "bytes": 1714192
-    },
-    {
-      "page": 9,
-      "file": "page-9.jpg",
-      "width": 4423,
-      "height": 3062,
-      "orientation": "landscape",
-      "bytes": 1685409
-    },
-    {
-      "page": 10,
       "file": "page-10.jpg",
       "width": 4423,
       "height": 3062,
@@ -82,7 +66,7 @@
       "bytes": 1298356
     },
     {
-      "page": 11,
+      "page": 9,
       "file": "page-11.jpg",
       "width": 4423,
       "height": 3062,
@@ -90,7 +74,7 @@
       "bytes": 1207033
     },
     {
-      "page": 12,
+      "page": 10,
       "file": "page-12.jpg",
       "width": 4423,
       "height": 3062,
@@ -98,15 +82,7 @@
       "bytes": 3974163
     },
     {
-      "page": 13,
-      "file": "page-13.jpg",
-      "width": 4423,
-      "height": 3062,
-      "orientation": "landscape",
-      "bytes": 1409850
-    },
-    {
-      "page": 14,
+      "page": 11,
       "file": "page-14.jpg",
       "width": 4423,
       "height": 3062,
@@ -114,7 +90,7 @@
       "bytes": 2225137
     },
     {
-      "page": 15,
+      "page": 12,
       "file": "page-15.jpg",
       "width": 4423,
       "height": 3062,
@@ -122,15 +98,7 @@
       "bytes": 1380255
     },
     {
-      "page": 16,
-      "file": "page-16.jpg",
-      "width": 4423,
-      "height": 3062,
-      "orientation": "landscape",
-      "bytes": 979175
-    },
-    {
-      "page": 17,
+      "page": 13,
       "file": "page-17.jpg",
       "width": 4423,
       "height": 3062,
@@ -138,7 +106,7 @@
       "bytes": 3646556
     },
     {
-      "page": 18,
+      "page": 14,
       "file": "page-18.jpg",
       "width": 4423,
       "height": 3062,
@@ -146,7 +114,7 @@
       "bytes": 2477688
     },
     {
-      "page": 19,
+      "page": 15,
       "file": "page-19.jpg",
       "width": 4423,
       "height": 3062,
@@ -154,7 +122,7 @@
       "bytes": 1575409
     },
     {
-      "page": 20,
+      "page": 16,
       "file": "page-20.jpg",
       "width": 4423,
       "height": 3062,
@@ -162,15 +130,7 @@
       "bytes": 1236290
     },
     {
-      "page": 21,
-      "file": "page-21.jpg",
-      "width": 4423,
-      "height": 3062,
-      "orientation": "landscape",
-      "bytes": 1657730
-    },
-    {
-      "page": 22,
+      "page": 17,
       "file": "page-22.jpg",
       "width": 4423,
       "height": 3062,
@@ -178,7 +138,7 @@
       "bytes": 1355201
     },
     {
-      "page": 23,
+      "page": 18,
       "file": "page-23.jpg",
       "width": 4423,
       "height": 3062,
@@ -186,7 +146,7 @@
       "bytes": 1312935
     },
     {
-      "page": 24,
+      "page": 19,
       "file": "page-24.jpg",
       "width": 4423,
       "height": 3062,
@@ -194,7 +154,7 @@
       "bytes": 2197194
     },
     {
-      "page": 25,
+      "page": 20,
       "file": "page-25.jpg",
       "width": 4423,
       "height": 3062,
@@ -202,7 +162,7 @@
       "bytes": 1843202
     },
     {
-      "page": 26,
+      "page": 21,
       "file": "page-26.jpg",
       "width": 4423,
       "height": 3062,
@@ -210,7 +170,7 @@
       "bytes": 1111235
     },
     {
-      "page": 27,
+      "page": 22,
       "file": "page-27.jpg",
       "width": 4423,
       "height": 3062,
@@ -218,7 +178,7 @@
       "bytes": 1980130
     },
     {
-      "page": 28,
+      "page": 23,
       "file": "page-28.jpg",
       "width": 4423,
       "height": 3062,
@@ -226,7 +186,7 @@
       "bytes": 2122634
     },
     {
-      "page": 29,
+      "page": 24,
       "file": "page-29.jpg",
       "width": 4423,
       "height": 3062,
@@ -234,7 +194,7 @@
       "bytes": 2007663
     },
     {
-      "page": 30,
+      "page": 25,
       "file": "page-30.jpg",
       "width": 4423,
       "height": 3062,
@@ -242,15 +202,7 @@
       "bytes": 1858294
     },
     {
-      "page": 31,
-      "file": "page-31.jpg",
-      "width": 4423,
-      "height": 3062,
-      "orientation": "landscape",
-      "bytes": 1112526
-    },
-    {
-      "page": 32,
+      "page": 26,
       "file": "page-32.jpg",
       "width": 4423,
       "height": 3062,
@@ -258,7 +210,7 @@
       "bytes": 1907556
     },
     {
-      "page": 33,
+      "page": 27,
       "file": "page-33.jpg",
       "width": 4423,
       "height": 3062,
@@ -266,7 +218,7 @@
       "bytes": 2113530
     },
     {
-      "page": 34,
+      "page": 28,
       "file": "page-34.jpg",
       "width": 4423,
       "height": 3062,
@@ -274,7 +226,7 @@
       "bytes": 1404338
     },
     {
-      "page": 35,
+      "page": 29,
       "file": "page-35.jpg",
       "width": 4423,
       "height": 3062,
@@ -282,7 +234,7 @@
       "bytes": 1662598
     },
     {
-      "page": 36,
+      "page": 30,
       "file": "page-36.jpg",
       "width": 4423,
       "height": 3062,
@@ -290,7 +242,7 @@
       "bytes": 1583100
     },
     {
-      "page": 37,
+      "page": 31,
       "file": "page-37.jpg",
       "width": 4423,
       "height": 3062,
@@ -298,7 +250,7 @@
       "bytes": 1992159
     },
     {
-      "page": 38,
+      "page": 32,
       "file": "page-38.jpg",
       "width": 4423,
       "height": 3062,
@@ -306,7 +258,7 @@
       "bytes": 1549784
     },
     {
-      "page": 39,
+      "page": 33,
       "file": "page-39.jpg",
       "width": 4423,
       "height": 3062,
@@ -314,7 +266,7 @@
       "bytes": 1592963
     },
     {
-      "page": 40,
+      "page": 34,
       "file": "page-40.jpg",
       "width": 4423,
       "height": 3062,
@@ -322,7 +274,7 @@
       "bytes": 1467890
     },
     {
-      "page": 41,
+      "page": 35,
       "file": "page-41.jpg",
       "width": 4423,
       "height": 3062,
